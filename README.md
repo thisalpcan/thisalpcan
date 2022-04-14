@@ -1,4 +1,19 @@
-### Hi there 👋
+### Merhaba!👋
+
+```js
+class diego{
+  constructor(options) {
+    this.name = "Alp Can",
+    this.age = "17",
+    this.type = "human",
+    this.sex = "male"
+    
+    this.birthday = "06",
+    this.birthmonth = "July",
+    this.birthyear = "2005",
+  }
+}
+```
 
 <!--
 **thisalpcan/thisalpcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
