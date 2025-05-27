@@ -4,7 +4,7 @@
 class diego{
   constructor(options) {
     this.name = "Alp Can",
-    this.age = "17",
+    this.age = "19",
     this.type = "human",
     this.sex = "male"
     
